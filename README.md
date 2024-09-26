@@ -103,7 +103,7 @@ I am a results-driven Data Scientist with 4+ years of R&D experience in data ana
 
 ## Publication
 
-- **[N. V. Trung, Z. Jingwen, D. Chengzu, et al. "Enhancing House Inspections: UAVs integrated with LLMs for Efficient AI-powered Surveillance"](https://ieeexplore.ieee.org/document/10650902)**, submission accepted for IJCNN 2024 conference.
+- V. T. Nguyen, J. Zhou, C. Dong, G. Cui, Q. An and S. Vinnakota, "Enhancing house inspections: UAVs integrated with LLMs for efficient AI-powered surveillance," 2024 International Joint Conference on Neural Networks (IJCNN), Yokohama, Japan, 2024, pp. 1-8, [doi: 10.1109/IJCNN60899.2024.10650902.](https://doi.org/10.1109/IJCNN60899.2024.10650902)
 
 ## Recommendations
 
